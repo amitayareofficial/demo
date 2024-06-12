@@ -1,5 +1,6 @@
 {
     "name": "php-di/demo",
+    "description": "A brief description of your project",
     "license": "MIT",
     "type": "project",
     "scripts": {
